@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **varun0496@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+Interests: Computer Vision, Robotic Manipulation, Autonomous Mobile Robots, Deep Learning, Multi-Task Deep Reinforcement Learning, Robotic System Design, Machine Learning for Computer Vision.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-gp&show_icons=true" alt="varun-gp" /></p>
 
