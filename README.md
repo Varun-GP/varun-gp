@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Varun</h1>
 <h3 align="center">I am a Computer Vision, Robotics engineer and practitioner. Love to work with robots!</h3>
 
-- 👨‍💻 All of my projects are available at [https://varun-gp.github.io/research.html](https://varun-gp.github.io/dist/)
+- 👨‍💻 All of my projects are available at [https://varun-gp.github.io/dist/index.html](https://varun-gp.github.io/dist/)
 
 - 💬 Ask me about **Robotics, Computer Vision**
 
