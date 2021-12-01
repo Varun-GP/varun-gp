@@ -1,11 +1,9 @@
 <h1 align="center">Hello, I am Varun</h1>
 <h3 align="center">I am a Computer Vision, Robotics engineer and practitioner. Love to work with robots!</h3>
 
-- 👨‍💻 All of my projects are available at [https://varun-gp.github.io/dist/index.html](https://varun-gp.github.io/dist/)
+- 👨‍💻 All of my projects are available at [varun-gp.github.io](https://varun-gp.github.io/dist/#projects)
 
 - 💬 Ask me about **Robotics, Computer Vision**
-
-- 📫 How to reach me **varun0496@gmail.com**
 
 **Interests:** Computer Vision, Robotic Manipulation, Autonomous Mobile Robots, Deep Learning, Multi-Task Deep Reinforcement Learning, Robotic System Design, Machine Learning for Computer Vision.
 
