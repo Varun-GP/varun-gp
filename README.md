@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Varun</h1>
 
-- 👨‍💻 All of my projects are available at [varun-gp.github.io](https://varun-gp.github.io/dist/#projects)
+- 👨‍💻 All of my projects are available at [varun-gp.github.io](https://varun-gp.github.io/)
 
 - 💬 Ask me about **Robotics, Computer Vision**
 
